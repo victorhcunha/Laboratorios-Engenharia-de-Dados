@@ -1,0 +1,2 @@
+No Python, strings são seqüencias imutáveis de caracteres. Eles são imutáveis devido ao fato que para se modificar uma String seja necessário a criação de outra String. 
+Em Python, uma String é uma seqüencia de letras, endereçada de forma que você possa ter acesso a qualquer valor dessa seqüencia. Os endereçamentos começam a ser contados do zero.
